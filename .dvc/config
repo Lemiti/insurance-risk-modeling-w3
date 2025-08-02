@@ -1,0 +1,4 @@
+[core]
+    remote = my-local-storage
+['remote "my-local-storage"']
+    url = /home/imel/10Academy/week3/dvc-storage
